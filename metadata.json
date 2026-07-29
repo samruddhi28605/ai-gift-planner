@@ -1,0 +1,6 @@
+{
+  "name": "AI Gift Planner",
+  "description": "Personalized AI-powered gift recommendations based on age, relationship, budget, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
