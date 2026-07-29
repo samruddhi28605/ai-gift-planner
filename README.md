@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🎁 Smart Gift Planner
 
-# Run and deploy your AI Studio app
+An intelligent web application that eliminates gifting guesswork by analyzing recipient profiles—including age, relationship, budget, and interests—to generate tailored recommendations.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/f5fe6fd2-2909-4447-bffb-3eb43a84fa3f
+## ⚡ Core Features
 
-## Run Locally
+- **Personalized Recommendations:** Generates gift ideas based on age, relationship, budget, and interests.
+- **Budget-Conscious Curation:** Ensures all ideas fit within user-defined financial constraints.
+- **Contextual Reasoning:** Provides explanations for why each gift fits the recipient's profile.
+- **Responsive Interface:** Features a clean, mobile-friendly design for all devices.
 
-**Prerequisites:**  Node.js
+---
 
+## 🧩 How It Works
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1.  **Define Profile:** Enter the recipient's details (age, interests, budget).
+2.  **Generate Ideas:** The system instantly processes inputs to suggest relevant gifts.
+3.  **Review & Select:** Explore the curated list with tailored reasoning and pricing.
